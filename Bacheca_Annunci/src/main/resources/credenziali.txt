@@ -1,0 +1,12 @@
+# CREDENZIALI UTENTI
+
+# UTENTI ADMIN
+admin1 / adminpass1
+admin2 / adminpass2
+
+# UTENTI STANDARD
+utente1 / utentepass1
+utente2 / utentepass2
+utente3 / utentepass3
+
+
